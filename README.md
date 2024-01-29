@@ -1,7 +1,9 @@
 # BIBLIOTECA
  Site que vende livros físicos.
 
-Tecnologias: Php, JavaScript, Mysql, Html, Css.
+Tecnologias: Html e Css.
+
+Previsão: Implementar Php, JavaScript e Mysql, 
 
 Objetivo: Facilitar e estimular a venda.
 
