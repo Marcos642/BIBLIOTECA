@@ -1,0 +1,76 @@
+/* Responsividade */
+
+/* Estilos Específicos */
+
+/* Cabeçalho */
+header {
+    background-color: #333;
+    padding: 10px;
+    color: #fff;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+  }
+  
+  nav ul li {
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Seção Detalhes do Livro */
+  .livro-details {
+    padding: 50px;
+    display: flex;
+  }
+  
+  .livro-image img {
+    max-width: 300px;
+    margin-right: 30px;
+  }
+  
+  .livro-info h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .livro-info p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .livro-info button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .livro-info button:hover {
+    background-color: #555;
+  }
+  
+  /* Rodapé */
+  footer {
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-bottom: 0;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+  
