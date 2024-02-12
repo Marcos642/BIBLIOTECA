@@ -1,3 +1,7 @@
+<?php 
+  acho "filha da puta";
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
